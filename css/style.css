@@ -72,7 +72,7 @@
     }
     
     .principal {
-        background-image: url(/img/diseno-naturaleza-efecto-bokeh_1048-1882.jpg);
+        background-image: url(https://sergimateo.com/wp-content/2012/12/madera-3.jpg);
         background-position: center;
         background-size: cover;
         height: 500px;
@@ -177,7 +177,7 @@
     .final {
         position: relative;
         /* border: 3px solid yellow; */
-        background: url(/img/diseno-naturaleza-efecto-bokeh_1048-1882.jpg);
+        background: url(https://sergimateo.com/wp-content/2012/12/madera-3.jpg);
         background-position: center;
         background-size: cover;
         /* background-attachment: fixed; */
