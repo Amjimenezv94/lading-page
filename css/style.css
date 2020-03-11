@@ -41,17 +41,14 @@
     }
     
     #nav-bar a {
-        color: #A4BA3F;
-        font-weight: bold;
-        /* flex-direction: row;
-    justify-content: space-around; */
+        color: white;
         display: flex;
-        font-size: 30px;
+        font-size: 25px;
     }
     
     #nav-bar a:hover {
         color: white;
-        font-size: 25px;
+        font-size: 20px;
         font-family: 'Dancing Script', cursive;
     }
     
@@ -82,10 +79,9 @@
     .principal h1 {
         position: relative;
         top: 40%;
-        color: black;
+        color: white;
         font-size: 50px;
         text-align: center;
-        /* font-family: "Caveat"; */
         font-family: 'Dancing Script', cursive;
     }
     
@@ -130,7 +126,7 @@
         /* border: 6px solid brown; */
         border-radius: 50%;
         /* height: 200px; */
-        box-shadow: 8px 8px 7px 8px#A4BA3F;
+        box-shadow: 15px#A4BA3F;
     }
     
     .container1 {
